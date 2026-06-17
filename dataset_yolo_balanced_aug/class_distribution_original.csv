@@ -1,0 +1,15 @@
+class,instances,instance_percent,documents,document_percent
+Caption,117,0.539,71,4.174
+Footnote,164,0.7555,78,4.5855
+Form,36,0.1658,24,1.4109
+Key-Value Region,188,0.8661,121,7.1135
+List-item,3782,17.423,682,40.0941
+Page-footer,1148,5.2886,929,54.6149
+Page-header,2316,10.6694,1280,75.2499
+Picture,528,2.4324,331,19.4591
+Section-header,3046,14.0323,935,54.9677
+Table,935,4.3074,538,31.6285
+Text,9179,42.2859,1446,85.0088
+Title,188,0.8661,155,9.1123
+Document Index,69,0.3179,47,2.7631
+Formula,11,0.0507,7,0.4115
