@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Large archives
+*.zip
+*.tar.gz
+*.tgz
+
+# Output directories / local training runs
+server_training_workdir/
+**/runs/
+**/.cache
